@@ -1,9 +1,19 @@
 #a
 double=23
+class(double)
+typeof(double)
 integer=4L
+class(integer)
+typeof(integer)
 logical=TRUE
+class(logical)
+typeof(logical)
 complex=23+9i
+class(complex)
+typeof(complex)
 character="My name is Nanda Kishor"
+class(character)
+typeof(character)
 
 
 #b
