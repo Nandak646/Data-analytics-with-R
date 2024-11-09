@@ -39,7 +39,7 @@ M
 #e
 vec1=c(1,2,3)
 vec2=c(4,5,6)
-matrixvector=matrix(c(v1,v2),3,2)
+matrixvector=matrix(c(vec1,vec2),3,2)
 matrixvector
 
 
